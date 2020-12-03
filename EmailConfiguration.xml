@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<EmailConfiguration>
+<SystemName></SystemName>
+<EmailDuration></EmailDuration>
+<DetectionDuaration></DetectionDuaration>
+<SMTP_Server></SMTP_Server>
+<UserName></UserName>
+<PassWord></PassWord>
+<TotalMail></TotalMail>
+<ReceiverMail_1></ReceiverMail_1>
+</EmailConfiguration>
